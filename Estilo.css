@@ -1,0 +1,158 @@
+@charset "UTF-8";
+body{
+        background: #92a250;
+        margin: 0px;
+    }
+div#interface{
+       width: 800px;
+       height: 1400px;
+       background: white;
+       margin: 10px auto 5px auto;
+       border: thin #006666 solid;
+       
+    }
+div#interface2{
+       width: 800px;
+       height: 1050px;
+       background: white;
+       margin: 10px auto 5px auto;
+       border: thin #006666 solid;
+       
+    }
+div#interface3{
+       width: 800px;
+       height: 950px;
+       background: white;
+       margin: 10px auto 5px auto;
+       border: thin #006666 solid;
+       
+    }
+nav{
+    width: 800px;
+    height: 40px;
+    margin-top: -4px;
+    background: #006666;
+    display: inline-block;
+    text-decoration:none;
+
+}
+#ap2{
+    width: 800px;
+    height: 40px;
+    margin-top: -4px;
+    background: red;
+    display: inline-block;
+    text-decoration:none;
+
+}
+.menu{ 
+   display: inline;
+    margin-left: -30px;
+    margin-right: -10px;
+    text-align: justify;
+    padding: 10px 48px 10px 4px;
+    
+    
+}
+.menu a{
+    
+    font-size: 14px;
+    color: white;
+    text-decoration:none;
+    
+}
+#ap3{
+    font-size: 14px;
+    color: lawngreen;
+    text-decoration:none;
+   
+}
+#ap3:hover{
+    color: #004d00;
+}
+.menu a:hover{
+    color: #004d00;
+}
+
+#left {
+    width:47%;
+    height: 250px;
+    margin: 10px 80px 10px 10px;
+    background: white;
+    display: inline-block;
+    border: thin #006666 solid;
+    
+}
+#right {
+    width: 48%;
+    height: 250px;
+    margin: -30px 10px 10px -70px;
+    background: white;
+    display: inline-block;
+    border: thin #006666 solid;
+}
+
+#img1{
+    text-align: center;
+    padding-top: -5px;
+}
+#img2{
+    margin: 10px 100px 100px 100px;
+}
+#img3{
+    width: 400px;
+    margin-left: 150px;
+    margin-top: -16px;
+}
+h2{
+    font-family: Verdana;
+    text-align: center; 
+    padding-top: 10px;
+}
+h3{
+    font-family: Verdana;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+p{
+    font-family: Verdana;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-left: 10px;
+    
+}
+figcation{
+    display: block;
+    text-align: center;
+    font-size: 19px;
+    padding-top: 14px;
+}
+footer{
+    text-align: center;
+    margin-top: -80px;
+}
+#fot1{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 110px;
+}
+#fot2{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 150px;
+}
+#fot3{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 90px;
+}
+#fot4{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 125px;
+}
+#fot5{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 70px;
+}
